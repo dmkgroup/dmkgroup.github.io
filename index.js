@@ -12,7 +12,7 @@ var channel = generateUserChannel();//channel-2162e923-538c-4689-037b-77a8a14477
     }
 
     // update the UI  
-    $('#curl').text('curl "http://ortc-developers2-useast1-s0001.realtime.co/send" --data "AK=B2N59F&AT=SomeToken&C=' + channel + '&M=hello"');
+    $('#curl').text('curl "http://ortc-developers2-useast1-s0001.realtime.co/send" --data "AK=fwP3b8&AT=SomeToken&C=' + channel + '&M=hello"');
     $('#channel').text(channel);
       
     // start Chrome Push Manager to obtain device id and register it with Realtime
