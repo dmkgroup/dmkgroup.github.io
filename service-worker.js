@@ -8,8 +8,8 @@ self.addEventListener('push', function(event) {
   // However you could grab some data from  
   // an API and use it to populate a notification
 
-  var title = 'Realtime Chrome Push Example';  
-  var body = 'We have news for you';  
+  var title = 'Now Move on to WEB Push Notifications !!!!!.';  
+  var body = 'Thats called talent to load push notify....';  
   var icon = 'img/realtime-logo.jpg'; 
 
   event.waitUntil(  
