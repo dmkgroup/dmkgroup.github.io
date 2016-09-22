@@ -52,7 +52,7 @@ var channel = generateUserChannel();//channel-2162e923-538c-4689-037b-77a8a14477
               // In this example we are using a Realtime application key without any security
               // so you should replace it with your own appkey and follow the guidelines
               // to configure it
-              client.connect('B2N59F', 'myAuthenticationToken');
+              client.connect('fwP3b8', 'myAuthenticationToken');
            }
          }
       });
