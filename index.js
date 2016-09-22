@@ -1,6 +1,6 @@
   // Generate the user private channel
 //var channel = generateUserChannel();//channel-ec422572-749a-4669-7922-14dfce858414
-var channel = "channel-ec422572-749a-4669-7922-14dfce858414";//channel-2162e923-538c-4689-037b-77a8a14477f5
+var channel = "channel-8f9300c1-39dd-4abb-b0c7-143d9cb6e8b7";//channel-2162e923-538c-4689-037b-77a8a14477f5
 
   $(document).ready(function() {
 
