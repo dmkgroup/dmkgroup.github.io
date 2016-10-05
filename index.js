@@ -80,6 +80,6 @@ function generateUserChannel(){
 function send(){
   if (client) {
       client.send(channel, "This will trigger a push notification");
-      client.send("channel-8f9300c1-39dd-4abb-b0c7-143d9cb6e8b7", "This will trigger a push notification");
+     // client.send("channel-8f9300c1-39dd-4abb-b0c7-143d9cb6e8b7", "This will trigger a push notification");
   };
 }
