@@ -80,8 +80,8 @@ function generateUserChannel(){
 function send(){
   if (client) {
       client.send(channel, "This will trigger a push notification");
-      client.send("channel-8f9300c1-39dd-4abb-b0c7-143d9cb6e8b7", "This will trigger a push notification");
-	  client.send("channel-7de01d25-8845-471f-adc5-485c606cfe2a", "This will trigger a push notification");
-	  client.send("channel-6ca83c1a-9fc5-4586-6649-bcfce4b9a95b", "This will trigger a push notification");
+     // client.send("channel-8f9300c1-39dd-4abb-b0c7-143d9cb6e8b7", "This will trigger a push notification");
+	 // client.send("channel-7de01d25-8845-471f-adc5-485c606cfe2a", "This will trigger a push notification");
+	 // client.send("channel-6ca83c1a-9fc5-4586-6649-bcfce4b9a95b", "This will trigger a push notification");
   };
 }
