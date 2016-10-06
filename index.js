@@ -8,6 +8,7 @@ var channel = generateUserChannel();//channel-ec422572-749a-4669-7922-14dfce8584
     // check if current browser is Chrome
     var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
     if(!is_chrome) {
+	alert(is_chrome);
       alert("No can do ... this demo requires Chrome 42+");
     }
 
